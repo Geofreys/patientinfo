@@ -1,0 +1,81 @@
+/* line 2, ../../../compass/sass/allergy.scss */
+#allergy label {
+  padding-right: 10px;
+}
+/* line 5, ../../../compass/sass/allergy.scss */
+#allergy label.heading {
+  margin-bottom: 10px;
+}
+/* line 11, ../../../compass/sass/allergy.scss */
+#allergy #severities label {
+  display: inline;
+  padding-right: 20px;
+}
+/* line 17, ../../../compass/sass/allergy.scss */
+#allergy .inline {
+  display: inline;
+}
+/* line 21, ../../../compass/sass/allergy.scss */
+#allergy form {
+  width: 100%;
+}
+/* line 25, ../../../compass/sass/allergy.scss */
+#allergy #allergens, #allergy #reactions {
+  vertical-align: top;
+  display: inline-block;
+}
+/* line 29, ../../../compass/sass/allergy.scss */
+#allergy #allergens label, #allergy #reactions label {
+  margin-top: 2px;
+  display: inline-block;
+}
+/* line 35, ../../../compass/sass/allergy.scss */
+#allergy #allergens {
+  width: 55%;
+}
+/* line 40, ../../../compass/sass/allergy.scss */
+#allergy #reactions ul {
+  column-count: 2;
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+}
+/* line 47, ../../../compass/sass/allergy.scss */
+#allergy .horizontal {
+  display: table;
+}
+/* line 51, ../../../compass/sass/allergy.scss */
+#allergy .horizontal > * {
+  display: table-cell;
+}
+/* line 55, ../../../compass/sass/allergy.scss */
+#allergy form > div {
+  margin-bottom: 15px;
+}
+/* line 62, ../../../compass/sass/allergy.scss */
+#allergy #types.button-group > .button {
+  margin-left: -1px;
+  margin-right: 0px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+/* line 68, ../../../compass/sass/allergy.scss */
+#allergy #types.button-group > .button:first-child {
+  margin-left: 0;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+/* line 74, ../../../compass/sass/allergy.scss */
+#allergy #types.button-group > .button:last-child {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+/* line 79, ../../../compass/sass/allergy.scss */
+#allergy #types.button-group > .button:not(:first-child) {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+/* line 84, ../../../compass/sass/allergy.scss */
+#allergy #types.button-group > .button:not(:last-child) {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}

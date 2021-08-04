@@ -1,0 +1,12 @@
+[
+    {
+        "id" : "attachments.attachments.visitActions.default",
+        "extensionPointId" : "patientDashboard.visitActions",
+        "type" : "link",
+        "label" : "attachments.visitactions.label",
+        "url" : "attachments/attachments.page?patient={{patient.uuid}}&patientId={{patient.patientId}}&visit={{visit.uuid}}",
+        "icon" : "icon-paper-clip",
+        "order" : 200,
+        "requiredPrivilege" : "App: attachments.attachments.page"
+    }
+]

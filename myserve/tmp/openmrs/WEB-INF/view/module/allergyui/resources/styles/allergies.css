@@ -1,0 +1,18 @@
+/* line 4, ../../../compass/sass/allergies.scss */
+.allergies .allergyStatus {
+  font-weight: bold;
+}
+/* line 8, ../../../compass/sass/allergies.scss */
+.allergies .allergyReaction {
+  color: #7b7b7b;
+}
+/* line 12, ../../../compass/sass/allergies.scss */
+.allergies form {
+  display: inline;
+}
+/* line 16, ../../../compass/sass/allergies.scss */
+.allergies td {
+  max-width: 100px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}

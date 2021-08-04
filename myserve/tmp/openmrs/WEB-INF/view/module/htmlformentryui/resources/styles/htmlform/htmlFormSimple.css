@@ -1,0 +1,12 @@
+#form-actions-container {
+  text-align: right;
+  background-color: #eeeeee;
+}
+
+.icon-ok {
+  width: 20px !important;
+}
+
+#save-form {
+  color: #007fff;
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "id" : "org.openmrs.module.attachments.patientDashboard.secondColumnFragments.att",
+        "extensionPointId" : "patientDashboard.secondColumnFragments",
+        "extensionParams" : {
+            "provider" : "attachments",
+            "fragment" : "dashboardWidget"
+        }
+    }
+]

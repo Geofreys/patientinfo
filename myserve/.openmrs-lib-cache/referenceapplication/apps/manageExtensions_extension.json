@@ -1,0 +1,12 @@
+[
+    {
+        "id": "referenceapplication.manageExtensions",
+        "extensionPointId": "systemAdministration.apps",
+        "type": "link",
+        "label": "referenceapplication.app.manageExtensions.title",
+        "url": "referenceapplication/manageExtensions.page",
+        "icon": "icon-th-list",
+        "order": 0,
+        "requiredPrivilege": "App: referenceapplication.manageExtensions"
+    }
+]
